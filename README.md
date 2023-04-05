@@ -1,5 +1,5 @@
 # Automation of Data Migration using Python
-The Data Migration Automation project was initiated by me during my internship at Infineon Technologies with the aim to automate the data migration process for three sites. The project involved extracting large data files and comparing thousands of lines in each file to finally import the files with the largest values. The existing approach of manually comparing values took around three months to complete, which was very time-consuming and labor-intensive.
+This project was initiated by me during my internship at Infineon Technologies with the aim to automate the data migration process for three sites. The project involved extracting large data files and comparing thousands of lines in each file to finally import the files with the largest values. The existing approach of manually comparing values took around three months to complete, which was very time-consuming and labor-intensive.
 
 ## Task Specification
 The project was assigned to automate the data migration process, which involves looping through each file, extracting the file, and comparing the largest values. The program exports files with the largest values to the database.
